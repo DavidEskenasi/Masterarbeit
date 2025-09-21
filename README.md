@@ -1,2 +1,11 @@
 # Masterarbeit
 IoT-gestützte Optimierung der Bewässe-rungsprozesse in Gartenbaubetrieben
+
+Die vorliegende Arbeit untersucht die Optimierung der Bewässerungsprozesse in kommerziel-len Gartenbaubetrieben durch den Einsatz von IoT-Technologien. Ziel war die Entwicklung und Evaluation eines kosteneffizienten, modularen Prototypens zur Messung der Boden-feuchtigkeit in verschiedenen Tiefen (20 cm, 40 cm, 60 cm, 80 cm, 100 cm) unter Anwen-dung unterschiedlicher Bewässerungsmethoden (Sprinkler-, Tropf-, und unterirdische Bewäs-serung) und daraus Bewässerungsstrategien abzuleiten.
+
+Auf Basis einer Literaturrecherche mit anschließender Anforderungsanalyse und einer Tech-nologieauswahl wurde ein Prototyp entwickelt, welcher fünf Truebner SMT50 Bodenfeuchte-sensoren mit einem Arduino Nano 33 IoT verknüpft und die Daten in nahezu Echtzeit in der Arduino IoT Cloud visualisiert. Im Rahmen von Feldversuchen auf Lehm und Sandboden wurde das System unter realitätsnahen Bedingungen getestet.
+
+Die Ergebnisse zeigen, dass die gewählten Bewässerungsmethoden unterschiedliche Auswir-kungen auf die Bodenfeuchtigkeit in den jeweiligen Tiefen haben. Die Tropfbewässerung zeigte bei beiden Bodentypen eine Verteilung des Wassers in allen Bodentiefen. Die unterirdi-sche Bewässerung zeigte dasselbe Verhalten bei beiden Bodentypen auf, jedoch konnte sie schneller die Feuchtigkeit in den Messbereichen erhöhen. Die Sprinklerbewässerung zeigte insbesondere bei Lehmboden eine geringe Eindringtiefe und konnte im Beobachtungszeit-raum nur in bis zum obersten Messpunkt eindringen. Bei Sandboden konnte die Sprinklerbe-wässerung jedoch alle Bodentiefen erreichen.
+
+Die Arbeit liefert praxisnahe Erkenntnisse für den Einsatz von IoT in der präzisen, datenba-sierten Bewässerungsanalyse. Außerdem liefert sie einen Prototyp, der für weitere Anwen-dungszwecke in der Praxis oder Forschung wiederverwendet werden kann. Die Arbeit bein-haltet Bewässerungsstrategien, die in kommerziellen Gartenbaubetrieben für eine nachhaltige Bewässerung in den Bewässerungsprozessen eingesetzt werden können. Außerdem liefert sie einen Beitrag zur nachhaltigen Ressourcennutzung und eröffnet Perspektiven für weiter-führende Forschungen.
+
